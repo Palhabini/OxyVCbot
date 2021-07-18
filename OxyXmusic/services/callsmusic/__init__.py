@@ -1,6 +1,4 @@
-from pyrogram import Client
+from OxyXmusic.services.queues import queues
+from OxyXmusic.services.callsmusic.callsmusic import pytgcalls, run
 
-from OxyXmusic import config
-
-client = Client(config.SESSION_NAME, config.API_ID, config.API_HASH)
-run = client.run
+__all__ = ["queues", "pytgcalls", "run"]
