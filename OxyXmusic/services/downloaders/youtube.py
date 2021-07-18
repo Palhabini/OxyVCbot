@@ -1,3 +1,4 @@
+
 # OxyXmusic - Telegram bot for streaming audio in group calls
 # Copyright (C) 2021  OxyNotOp
 
@@ -14,7 +15,7 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-# Modified by OxyNotOp
+# Modified by Inukaasith
 
 
 from os import path
