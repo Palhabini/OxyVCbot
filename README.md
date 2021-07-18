@@ -21,7 +21,7 @@ Get STRING_NAME from here:
 
 
 
-## Commands 🛠
+## Commands ❤️👀
 
 - `/play <song name>` - play song you requested
 - `/dplay <song name>` - play song you requested via deezer
